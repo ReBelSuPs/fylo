@@ -89,7 +89,9 @@ header nav {
 	flex: 0.2;
 	font-weight: 400;
 }
-
+nav a:hover {
+	color: #696969;
+}
 #get-started {
 	margin: 10em 0;
 }
